@@ -17,3 +17,5 @@ for 8bit-wave device with TZXduino software
 - Arduino D8 -> SHR DATA
 - Arduino D4 -> SHR CLOCK
 - Arduino D2 -> SHR LATCH
+
+![real](https://github.com/tehniq3/leds_animation_cassette_player/blob/main/photos/TZXduino_cateta_real_1mic.jpg)
