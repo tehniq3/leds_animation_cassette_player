@@ -2,6 +2,7 @@
 - based on https://github.com/Simsso/ShiftRegister74HC595 library
 - TZXduino 1.16 work with https://github.com/greiman/SdFat library
 
+![real_butoane](https://github.com/tehniq3/leds_animation_cassette_player/blob/main/photos/TZXduino_cateta_real_0mic.jpg)
 
 for TZXduino 1.16LED (LCD1602 display) it used:
 - TXZduino device
