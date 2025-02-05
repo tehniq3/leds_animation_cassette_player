@@ -1,5 +1,6 @@
 # leds_animation_cassette_player
-based on https://github.com/Simsso/ShiftRegister74HC595 library
+- based on https://github.com/Simsso/ShiftRegister74HC595 library
+- TZXduino 1.16 work with https://github.com/greiman/SdFat library
 
 
 for TZXduino 1.16LED (LCD1602 display) it used:
